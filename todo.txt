@@ -1,0 +1,36 @@
+Treasure Guild TODO list
+
+
+title screen
+[ ] start
+
+world map
+[ ] display background
+[ ] display level icons if unlocked
+[ ] click opens stage select confirm
+
+game data
+[ ] move data to a campaign file
+
+game save
+[ ] move save data to a player file
+[ ] save/load using localstorage
+
+world stats
+[ ] total progress xx.x%
+[ ] each level has a 3 star rating (completed, 100% accurate, speed)
+
+hint
+[ ] add hint / quit option if 1 item remains for 60 seconds
+[ ] hint should highlight the region of the screen (9-cut)
+
+music composition
+[ ] level 1 town bg music
+[ ] level 2 travel bg music
+[ ] level 3 treasure bg music
+[ ] world map bg music
+[ ] new quest fanfare
+[ ] level complete fanfare
+
+content
+[ ] 24 weeks of making scenes
